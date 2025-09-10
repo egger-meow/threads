@@ -7,7 +7,7 @@ An AI-powered system that analyzes viral content patterns on Meta's Threads plat
 ## 🎯 Project Vision
 
 This project emerged from my experience as a Meta app and Threads influencer. 
-![threads](img\7E749581-2707-4187-B03A-5218BD154A1F.jpeg)
+![threads](./img/7E749581-2707-4187-B03A-5218BD154A1F.png)
 The core idea is to create an intelligent system that:
 
 1. **Fetches viral content** from Threads (posts with high likes, comments, shares, etc.)
